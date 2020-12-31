@@ -1,4 +1,4 @@
-<centre># Neuroevolution Vehicles</centre>
+<center><h1>Neuroevolution Vehicles</h1></center>
 
 <table>
 <tr>
