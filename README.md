@@ -1,4 +1,4 @@
-# Neuroevolution Vehicles
+<centre># Neuroevolution Vehicles</centre>
 
 <table>
 <tr>
