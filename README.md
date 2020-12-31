@@ -3,6 +3,7 @@
 <table>
 <tr>
 <td>
+
 ![Neuroevolution Vehicles](demo.png)
 </td>
 </tr>
