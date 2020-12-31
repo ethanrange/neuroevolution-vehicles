@@ -1,16 +1,14 @@
 # Neuroevolution Vehicles
 
-## About
-
 <table>
 <tr>
 <td>
-  
 ![Neuroevolution Vehicles](demo.png)
-
 </td>
 </tr>
 </table>
+
+## About
 
 Neural network library with genetic algorithms for network selection applied to a 2D physics based vehicle simulator, around 2 included tracks.Written in Python and Processing.
 
