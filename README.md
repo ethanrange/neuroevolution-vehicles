@@ -1,5 +1,17 @@
 # Neuroevolution Vehicles
 
+## About
+
+<table>
+<tr>
+<td>
+  
+![Neuroevolution Vehicles](demo.png)
+
+</td>
+</tr>
+</table>
+
 Neural network library with genetic algorithms for network selection applied to a 2D physics based vehicle simulator, around 2 included tracks.Written in Python and Processing.
 
 ## Getting Started
@@ -8,12 +20,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Ensure that you have the following prerequisites installed:
 
-```
-[Python 3.7.4+](https://www.python.org/)
-[Processing 3.5.3+](https://py.processing.org/)
-```
+* Python - [Download and install version 3.7.4 +](https://www.python.org/)
+* Processing - [Download and install version 3.5.3 +](https://py.processing.org/)
 
 ### Installation
 
