@@ -37,6 +37,8 @@ Then open `NeuroevolutionVehicles/NeuroevolutionVehicles.pyde` and run.
 
 The program provides 3 primary actions, indicated by the buttons at the bottom right of the window. Firstly, the desired track may be selected with the toggle track button in the upper right hand corner. 2 default tracks are provided.
 
+Parameters for both the neural network, genetic algorithm, car physics and network visualisation may be modified in the `parameters.py` file.
+
 ### Starting Training
 
 Select the desired track, then select run. The program will continue to run indefinitely, producing incrementally better vehicle AIs.
